@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "axios": "^0.21.2",
-    "durable-functions": "^1.2.1"
+    "durable-functions": "^1.5.4"
   },
   "devDependencies": {}
 }
